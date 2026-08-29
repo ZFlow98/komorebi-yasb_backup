@@ -18,7 +18,7 @@
     "unfocused": "#303030"
   },
   "mouse_follows_focus": false,
-  "transparency": true,
+  "transparency": false,
   "transparency_alpha": 200,
   "animation": {
     "enabled":true,
